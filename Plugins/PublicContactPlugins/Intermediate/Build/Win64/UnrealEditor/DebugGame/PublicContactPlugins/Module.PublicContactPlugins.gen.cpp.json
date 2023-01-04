@@ -1,0 +1,41 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\ue_project\\ue_art_res\\livehouse\\plugins\\publiccontactplugins\\intermediate\\build\\win64\\unrealeditor\\debuggame\\publiccontactplugins\\module.publiccontactplugins.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unrealengine\\unrealengine-release\\engine\\intermediate\\build\\win64\\unrealeditor\\development\\engine\\sharedpch.engine.nonoptimized.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\ue_project\\ue_art_res\\livehouse\\plugins\\publiccontactplugins\\intermediate\\build\\win64\\unrealeditor\\debuggame\\publiccontactplugins\\definitions.publiccontactplugins.h",
+            "e:\\ue_project\\ue_art_res\\livehouse\\plugins\\publiccontactplugins\\intermediate\\build\\win64\\unrealeditor\\inc\\publiccontactplugins\\basegizmo.gen.cpp",
+            "e:\\ue_project\\ue_art_res\\livehouse\\plugins\\publiccontactplugins\\source\\publiccontactplugins\\public\\runtimetransformeditor\\gizmos\\basegizmo.h",
+            "e:\\ue_project\\ue_art_res\\livehouse\\plugins\\publiccontactplugins\\source\\publiccontactplugins\\public\\publiccontactplugins.h",
+            "e:\\ue_project\\ue_art_res\\livehouse\\plugins\\publiccontactplugins\\intermediate\\build\\win64\\unrealeditor\\inc\\publiccontactplugins\\publiccontactplugins.generated.h",
+            "e:\\ue_project\\ue_art_res\\livehouse\\plugins\\publiccontactplugins\\intermediate\\build\\win64\\unrealeditor\\inc\\publiccontactplugins\\basegizmo.generated.h",
+            "e:\\ue_project\\ue_art_res\\livehouse\\plugins\\publiccontactplugins\\intermediate\\build\\win64\\unrealeditor\\inc\\publiccontactplugins\\focusableobject.gen.cpp",
+            "e:\\ue_project\\ue_art_res\\livehouse\\plugins\\publiccontactplugins\\source\\publiccontactplugins\\public\\runtimetransformeditor\\focusableobject.h",
+            "e:\\ue_project\\ue_art_res\\livehouse\\plugins\\publiccontactplugins\\intermediate\\build\\win64\\unrealeditor\\inc\\publiccontactplugins\\focusableobject.generated.h",
+            "e:\\ue_project\\ue_art_res\\livehouse\\plugins\\publiccontactplugins\\intermediate\\build\\win64\\unrealeditor\\inc\\publiccontactplugins\\publiccontactfunctionlibrary.gen.cpp",
+            "e:\\ue_project\\ue_art_res\\livehouse\\plugins\\publiccontactplugins\\source\\publiccontactplugins\\public\\publiccontactfunctionlibrary.h",
+            "e:\\ue_project\\ue_art_res\\livehouse\\plugins\\publiccontactplugins\\intermediate\\build\\win64\\unrealeditor\\inc\\publiccontactplugins\\publiccontactfunctionlibrary.generated.h",
+            "e:\\ue_project\\ue_art_res\\livehouse\\plugins\\publiccontactplugins\\intermediate\\build\\win64\\unrealeditor\\inc\\publiccontactplugins\\publiccontactmanager.gen.cpp",
+            "e:\\ue_project\\ue_art_res\\livehouse\\plugins\\publiccontactplugins\\source\\publiccontactplugins\\public\\publiccontactmanager.h",
+            "e:\\ue_project\\ue_art_res\\livehouse\\plugins\\publiccontactplugins\\intermediate\\build\\win64\\unrealeditor\\inc\\publiccontactplugins\\publiccontactmanager.generated.h",
+            "e:\\ue_project\\ue_art_res\\livehouse\\plugins\\publiccontactplugins\\intermediate\\build\\win64\\unrealeditor\\inc\\publiccontactplugins\\publiccontactplugins.gen.cpp",
+            "e:\\ue_project\\ue_art_res\\livehouse\\plugins\\publiccontactplugins\\intermediate\\build\\win64\\unrealeditor\\inc\\publiccontactplugins\\publiccontactplugins.init.gen.cpp",
+            "e:\\ue_project\\ue_art_res\\livehouse\\plugins\\publiccontactplugins\\intermediate\\build\\win64\\unrealeditor\\inc\\publiccontactplugins\\rotationgizmo.gen.cpp",
+            "e:\\ue_project\\ue_art_res\\livehouse\\plugins\\publiccontactplugins\\source\\publiccontactplugins\\public\\runtimetransformeditor\\gizmos\\rotationgizmo.h",
+            "e:\\ue_project\\ue_art_res\\livehouse\\plugins\\publiccontactplugins\\intermediate\\build\\win64\\unrealeditor\\inc\\publiccontactplugins\\rotationgizmo.generated.h",
+            "e:\\ue_project\\ue_art_res\\livehouse\\plugins\\publiccontactplugins\\intermediate\\build\\win64\\unrealeditor\\inc\\publiccontactplugins\\scalegizmo.gen.cpp",
+            "e:\\ue_project\\ue_art_res\\livehouse\\plugins\\publiccontactplugins\\source\\publiccontactplugins\\public\\runtimetransformeditor\\gizmos\\scalegizmo.h",
+            "e:\\ue_project\\ue_art_res\\livehouse\\plugins\\publiccontactplugins\\intermediate\\build\\win64\\unrealeditor\\inc\\publiccontactplugins\\scalegizmo.generated.h",
+            "e:\\ue_project\\ue_art_res\\livehouse\\plugins\\publiccontactplugins\\intermediate\\build\\win64\\unrealeditor\\inc\\publiccontactplugins\\transformerpawn.gen.cpp",
+            "e:\\ue_project\\ue_art_res\\livehouse\\plugins\\publiccontactplugins\\source\\publiccontactplugins\\public\\runtimetransformeditor\\transformerpawn.h",
+            "e:\\ue_project\\ue_art_res\\livehouse\\plugins\\publiccontactplugins\\intermediate\\build\\win64\\unrealeditor\\inc\\publiccontactplugins\\transformerpawn.generated.h",
+            "e:\\ue_project\\ue_art_res\\livehouse\\plugins\\publiccontactplugins\\intermediate\\build\\win64\\unrealeditor\\inc\\publiccontactplugins\\translationgizmo.gen.cpp",
+            "e:\\ue_project\\ue_art_res\\livehouse\\plugins\\publiccontactplugins\\source\\publiccontactplugins\\public\\runtimetransformeditor\\gizmos\\translationgizmo.h",
+            "e:\\ue_project\\ue_art_res\\livehouse\\plugins\\publiccontactplugins\\intermediate\\build\\win64\\unrealeditor\\inc\\publiccontactplugins\\translationgizmo.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

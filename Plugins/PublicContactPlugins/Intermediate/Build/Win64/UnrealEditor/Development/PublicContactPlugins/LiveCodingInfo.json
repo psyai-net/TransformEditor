@@ -1,0 +1,29 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.PublicContactPlugins.cpp.obj": [
+			"PublicContactFunctionLibrary.cpp.obj",
+			"PublicContactPlugins.cpp.obj",
+			"PublicContasctInterface.cpp.obj",
+			"FocusableObject.cpp.obj",
+			"BaseGizmo.cpp.obj",
+			"RotationGizmo.cpp.obj",
+			"ScaleGizmo.cpp.obj",
+			"TranslationGizmo.cpp.obj",
+			"TransformerPawn.cpp.obj"
+		],
+		"Module.PublicContactPlugins.gen.cpp.obj": [
+			"BaseGizmo.gen.cpp.obj",
+			"FocusableObject.gen.cpp.obj",
+			"PublicContactFunctionLibrary.gen.cpp.obj",
+			"PublicContactManager.gen.cpp.obj",
+			"PublicContactPlugins.gen.cpp.obj",
+			"PublicContactPlugins.init.gen.cpp.obj",
+			"PublicContasctInterface.gen.cpp.obj",
+			"RotationGizmo.gen.cpp.obj",
+			"ScaleGizmo.gen.cpp.obj",
+			"TransformerPawn.gen.cpp.obj",
+			"TranslationGizmo.gen.cpp.obj"
+		]
+	}
+}

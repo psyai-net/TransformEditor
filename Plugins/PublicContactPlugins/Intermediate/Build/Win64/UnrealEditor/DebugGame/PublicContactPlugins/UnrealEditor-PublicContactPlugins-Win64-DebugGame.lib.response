@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-PublicContactPlugins-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"..\Intermediate\Build\Win64\UnrealEditor\Development\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h.obj"
+"E:\UE_Project\UE_Art_Res\Livehouse\Plugins\PublicContactPlugins\Intermediate\Build\Win64\UnrealEditor\DebugGame\PublicContactPlugins\Module.PublicContactPlugins.cpp.obj"
+"E:\UE_Project\UE_Art_Res\Livehouse\Plugins\PublicContactPlugins\Intermediate\Build\Win64\UnrealEditor\DebugGame\PublicContactPlugins\Module.PublicContactPlugins.gen.cpp.obj"
+"..\Intermediate\Build\Win64\UnrealEditor\Development\Default.rc2.res"
+/OUT:"E:\UE_Project\UE_Art_Res\Livehouse\Plugins\PublicContactPlugins\Intermediate\Build\Win64\UnrealEditor\DebugGame\PublicContactPlugins\UnrealEditor-PublicContactPlugins-Win64-DebugGame.lib"

@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-PublicContactPlugins.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"..\Intermediate\Build\Win64\UnrealEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\Work\UE_Project\UE5TransformTest\Plugins\PublicContactPlugins\Intermediate\Build\Win64\UnrealEditor\Development\PublicContactPlugins\Module.PublicContactPlugins.cpp.obj"
+"E:\Work\UE_Project\UE5TransformTest\Plugins\PublicContactPlugins\Intermediate\Build\Win64\UnrealEditor\Development\PublicContactPlugins\Module.PublicContactPlugins.gen.cpp.obj"
+"..\Intermediate\Build\Win64\UnrealEditor\Development\Default.rc2.res"
+/OUT:"E:\Work\UE_Project\UE5TransformTest\Plugins\PublicContactPlugins\Intermediate\Build\Win64\UnrealEditor\Development\PublicContactPlugins\UnrealEditor-PublicContactPlugins.lib"

@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{B02E6A2D-4A3C-ACE6-1FCE-E095E948B789}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "UE5TransformTest",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
